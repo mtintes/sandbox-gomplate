@@ -1,0 +1,1 @@
+This value is thing: {{ (datasource "config").test }}
